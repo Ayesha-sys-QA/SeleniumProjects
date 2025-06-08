@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-23">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="/NeotechExercices"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/byte-buddy-1.17.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/byte-buddy-1.17.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/commons-exec-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/commons-exec-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/error_prone_annotations-2.38.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/error_prone_annotations-2.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/failureaccess-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/failureaccess-1.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/guava-33.4.8-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/guava-33.4.8-jre-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/jspecify-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/jspecify-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-api-1.50.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-api-1.50.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-context-1.50.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-context-1.50.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-exporter-logging-1.50.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-exporter-logging-1.50.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-1.50.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-1.50.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-common-1.50.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-common-1.50.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-extension-autoconfigure-1.50.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-extension-autoconfigure-1.50.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-extension-autoconfigure-spi-1.50.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-extension-autoconfigure-spi-1.50.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-logs-1.50.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-logs-1.50.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-metrics-1.50.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-metrics-1.50.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-trace-1.50.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/opentelemetry-sdk-trace-1.50.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-api-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-api-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-chrome-driver-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-chrome-driver-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-chromium-driver-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-chromium-driver-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-devtools-v135-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-devtools-v135-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-devtools-v136-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-devtools-v136-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-devtools-v137-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-devtools-v137-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-edge-driver-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-edge-driver-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-firefox-driver-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-firefox-driver-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-http-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-http-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-ie-driver-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-ie-driver-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-java-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-java-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-json-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-json-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-manager-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-manager-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-os-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-os-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-remote-driver-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-remote-driver-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-safari-driver-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-safari-driver-4.33.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-support-4.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jerome.angelini/Desktop/MOI/NEOTECH/DOCUMENTS/JAR FILES/selenium-java-4.33.0 (3)/selenium-support-4.33.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
