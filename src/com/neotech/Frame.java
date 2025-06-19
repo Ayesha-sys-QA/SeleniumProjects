@@ -1,6 +1,9 @@
 package com.neotech;
 import org.openqa.selenium.By;
+
 import org.openqa.selenium.WebElement;
+
+import com.neotech.utils.BrowserSetup;
 
 public class Frame extends BrowserSetup {
 

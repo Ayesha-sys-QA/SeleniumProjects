@@ -5,6 +5,9 @@ import java.util.List;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
+import com.neotech.utils.BrowserSetup;
+import com.neotech.utils.ConfigsReader;
+
 public class DeleteOrder extends BrowserSetup {
 
 	public static void main(String[] args) throws InterruptedException {

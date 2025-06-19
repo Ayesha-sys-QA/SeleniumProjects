@@ -1,10 +1,12 @@
-package com.neotech.selenium06;
+package com.neotech;
 
 import java.util.List;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
-import com.neotech.BrowserSetup;
+
+import com.neotech.utils.BrowserSetup;
 
 public class AmazonList extends BrowserSetup {
 

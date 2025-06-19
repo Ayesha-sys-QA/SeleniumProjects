@@ -2,7 +2,8 @@ package com.neotech;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.Select;
+
+import com.neotech.utils.BrowserSetup;
 
 public class Homework3 extends BrowserSetup {
 

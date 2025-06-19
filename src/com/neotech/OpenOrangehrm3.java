@@ -1,5 +1,5 @@
 package com.neotech;
-import com.neotech.BrowserSetup;
+import com.neotech.utils.BrowserSetup;
 
 
 

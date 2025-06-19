@@ -3,6 +3,8 @@ package com.neotech;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 
+import com.neotech.utils.BrowserSetup;
+
 public class AlertText extends BrowserSetup {
 
 	public static void main(String[] args) throws InterruptedException {

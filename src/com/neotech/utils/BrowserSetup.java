@@ -1,4 +1,7 @@
-package com.neotech;
+package com.neotech.utils;
+
+
+import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -34,6 +37,7 @@ public class BrowserSetup {
 		}
 
 		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(Constants.IMPLICIT_WAIT_TIME));
 		String url = ConfigsReader.getProperty("url");
 		driver.get(url);
 	}
@@ -48,6 +52,5 @@ public class BrowserSetup {
 	}
 
 }
-
 
 

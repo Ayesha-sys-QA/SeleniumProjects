@@ -1,12 +1,14 @@
 package com.neotech;
 
 import java.time.Duration;
-import java.util.List;
-import org.openqa.selenium.JavascriptExecutor;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.neotech.utils.BrowserSetup;
+import com.neotech.utils.ConfigsReader;
 
 public class HrmEmployee extends BrowserSetup {
 
@@ -38,12 +40,12 @@ public class HrmEmployee extends BrowserSetup {
 		button.click();
 		
 		Thread.sleep(5000);
-		// Cliquer sur le bouton Save 
+		// Save 
 		WebElement saveButton = driver.findElement(By.id("modal-save-button"));
 		saveButton.click();
 		
 
-		// Attendre que la fenêtre se ferme
+		// wait
 		WebDriverWait wait3 = new WebDriverWait(driver, Duration.ofSeconds(10));
 		wait3.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector("div.modal.show")));
 

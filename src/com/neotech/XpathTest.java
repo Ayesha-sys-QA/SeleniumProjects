@@ -1,4 +1,4 @@
-package com.neotech.lesson3;
+package com.neotech;
 
 public class XpathTest {
 

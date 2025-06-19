@@ -5,8 +5,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import com.neotech.ConfigsReader;
-import com.neotech.Constants;
+import com.neotech.utils.ConfigsReader;
+import com.neotech.utils.Constants;
 
 public class OpenOrangeHrm2 {
 

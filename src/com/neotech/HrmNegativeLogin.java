@@ -1,8 +1,8 @@
-package com.neotech.Selenium05;
+package com.neotech;
 
 import org.openqa.selenium.By;
 
-import com.neotech.BrowserSetup;
+import com.neotech.utils.BrowserSetup;
 
 public class HrmNegativeLogin extends BrowserSetup {
 
